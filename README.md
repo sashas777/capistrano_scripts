@@ -1,0 +1,1 @@
+## Capistrano scripts for reference
